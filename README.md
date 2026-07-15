@@ -2,6 +2,10 @@
 
 Buffer'daki bir kanalın kuyruğunu belirlediğin sayıda (varsayılan 10) sürekli dolu tutan basit bir araç. Kendi postlarını bir tabloya yazıyorsun, script Buffer'da boş yer oldukça sırayla ekliyor.
 
+## Önizleme
+
+![Buffer Kuyruk Yöneticisi arayüzü](screenshot.png)
+
 ## Kurulum (Mac)
 
 1. **Python kontrolü** — Terminal'de:
