@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+scheduler_log.txt
+.DS_Store
